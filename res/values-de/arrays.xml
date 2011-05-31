@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Currency Names for Spinner -->
+    <string-array name="CurrencyName">
+        <item>EUR - Euro</item>
+        <item>USD - US Dollar</item>
+        <item>RUB - Russischer Rubel</item>
+        <item>AUD - Australischer Dollar</item>
+        <item>CAD - Kanadischer Dollar</item>
+        <item>JPY - Japanischer Yen</item>
+        <item>CHF - Schweizer Franken</item>
+    </string-array>
+</resources>

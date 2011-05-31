@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_calculate">Calculate</string>
+    <string name="app_name">MVHS Currency Converter</string>
+    <string name="res_ClearResultFull">Clear Results</string>
+    <string name="res_ClearResultsShort">Clear</string>
+    <string name="res_Close">Close</string>
+</resources>
