@@ -11,7 +11,7 @@
         <item>CHF - Swiss Franks</item>
     </string-array>
     
-    <!-- Currency calculation values (Curreny X = 1 EUR) -->
+    <!-- Currency calculation values (Currency X = 1 EUR) -->
     <string-array name="CurrencyValue">
         <item>1</item>
         <item>1.4427</item>
