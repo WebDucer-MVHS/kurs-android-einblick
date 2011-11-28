@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="res_calculate">Berechnen</string>
-    <string name="app_name">MVHS Währungsrechner</string>
-    <string name="res_ClearResultFull">Ergebnisse löschen</string>
-    <string name="res_ClearResultsShort">Löschen</string>
-    <string name="res_Close">Schließen</string>
-</resources>

@@ -1,62 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    >
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/txtWert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal" >
+
+        <requestFocus />
+    </EditText>
+
     <LinearLayout
-    	android:layout_width="fill_parent"
-    	android:id="@+id/linearLayout1"
-    	android:layout_height="wrap_content">
-        <EditText
-        	android:layout_width="fill_parent"
-        	android:layout_height="wrap_content"
-        	android:text=""
-        	android:id="@+id/txtSourceCurrency"
-        	android:inputType="numberDecimal"
-        	android:maxLength="16">
-        </EditText>
-    </LinearLayout>
-    <LinearLayout
-    	android:layout_width="fill_parent"
-    	android:id="@+id/linearLayout2"
-    	android:layout_height="wrap_content"
-    	android:weightSum="9">
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+
         <Spinner
-        	android:layout_width="0dip"
-        	android:layout_height="wrap_content"
-        	android:layout_weight="3"
-        	android:id="@+id/spnSource"
-        	android:entries="@array/CurrencyName"
-        	android:layout_gravity="center_horizontal|top">
-        </Spinner>
+            android:id="@+id/selStart"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:entries="@array/waehrung" />
+
         <Spinner
-        	android:layout_weight="3"
-        	android:layout_height="wrap_content"
-        	android:layout_width="0dip"
-        	android:id="@+id/spnTarget"
-        	android:entries="@array/CurrencyName"
-        	android:layout_gravity="center_horizontal">
-        </Spinner>
+            android:id="@+id/selEnd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:entries="@array/waehrung" />
+
         <Button
-        	android:layout_height="wrap_content"
-        	android:layout_weight="3"
-        	android:layout_width="0dip"
-        	android:id="@+id/cmdCalculate"
-        	android:text="@string/res_calculate"
-        	android:layout_gravity="center_horizontal"
-        	android:onClick="onCalculateButtonClick">
-        </Button>
+            android:id="@+id/cmdCalculate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cmdCalculate" />
+
     </LinearLayout>
-    <ScrollView
-    	android:id="@+id/scrollView1"
-    	android:layout_width="fill_parent"
-    	android:layout_height="fill_parent">
-		<TextView
-			android:layout_width="fill_parent"
-			android:text=""
-			android:layout_height="fill_parent"
-			android:id="@+id/txtTargetListing">
-		</TextView>
-    </ScrollView>
+
+    <TextView
+        android:id="@+id/txtResult"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
 </LinearLayout>

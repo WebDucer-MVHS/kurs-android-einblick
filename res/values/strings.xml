@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="res_calculate">Calculate</string>
-    <string name="app_name">MVHS Currency Converter</string>
-    <string name="res_ClearResultFull">Clear Results</string>
-    <string name="res_ClearResultsShort">Clear</string>
-    <string name="res_Close">Close</string>
+
+    <string name="hello">Hello World, WaehrungsrechnerActivity!</string>
+    <string name="app_name">Waehrungsrechner</string>
+    <string name="cmdCalculate">Berechnen</string>
+
 </resources>
