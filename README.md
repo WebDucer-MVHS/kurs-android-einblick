@@ -21,9 +21,10 @@ Dauer
 -----
 - 2 Doppelstunden (1 Abend)
 
-Nächster Termin
-------
-4\. Oktober 2012, 18:00 - 21:00
+Nächster Termine
+----------------
+4\. Oktober 2012, 18:00 - 21:00  
+22\. Oktober 2012, 18:00 - 21:00
 
 Lizenz
 ------
