@@ -3,24 +3,25 @@ Einblick in die Programmentwicklung für Android-Smartphones
 
 Voraussetzungen
 ---------------
-Voraussetzung sind einfache Programmierkenntnisse in Java und Verständnis von XML-Notation.
+- Einfache Programmierkenntnisse in Java
+- Einfache Kenntnisse des XML-Formats
 
 Kursinhalt
 ----------
-Übersicht über Versionen und Hardware:
-- Auflösung
-- Sensoren
-- Prozessorleistung
-- usw.
+- Kurze Übersicht über:
+  - Versionen
+  - Hardware (Auflösung, Sensoren, Prozessorleistung usw.)
+- Erstellung eines einfachen Programms (Währungsrechner) unter Android 4.1:
+  - Layout-Erstellung (visuell und XML)
+  - Android Manifest (App Definition)
+  - Programmierung der Logik (Java)
+  - Programmtest (im Emulator und / oder auf dem mitgebrachten Smartphone / Tablet)
 
-Erstellung eines einfachen Programms (Währungsrechner):
-- Layout-Erstellung
-- Programmeinstellungen definieren
-- Ressourcen definieren
-- Programmierung der Logik
-- Programmtest
+Dauer
+-----
+- 2 Doppelstunden (1 Abend)
 
-Termin
+Nächster Termin
 ------
 4\. Oktober 2012, 18:00 - 21:00
 
