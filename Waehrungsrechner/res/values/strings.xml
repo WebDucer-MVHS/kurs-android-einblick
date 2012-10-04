@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Währungsrechner</string>
+    <string name="title_activity_main">Währungsrechner</string>
+    <string name="cmd_calculate">Berechnen</string>
+    <string name="msg_no_input">Bitte eine Zahl eingeben!</string>
+    <string name="menu_exit">Beenden</string>
+    <string name="menu_clear">Löschen</string>
+
+</resources>
