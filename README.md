@@ -23,7 +23,7 @@ Dauer
 
 Nächster Termine
 ----------------
-4\. Oktober 2012, 18:00 - 21:00  
+~~4\. Oktober 2012, 18:00 - 21:00~~  
 22\. Oktober 2012, 18:00 - 21:00
 
 Lizenz
