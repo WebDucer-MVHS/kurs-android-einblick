@@ -1,9 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">Währungsrechner</string>
-    <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">Währungsrechner</string>
-    <string name="lbl_waehrung_1">Ausgangswert:</string>
-    <string name="cmd_berechnen">Berechnen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_waehrung1">Wert in Währung 1 eingeben:</string>
+    <string name="btn_berechnen">Berechnen</string>
+    <string-array name="waehrung_name">
+        <item >Euro (€)</item>
+        <item >US Dollar ($)</item>
+        <item >Britische Pfund (BP)</item>
+        <item>Russische Rubel (RUB)</item>
+    </string-array>
+    
+    <string-array name="waehrung_wert">
+        <item >1</item>
+        <item >1.27</item>
+        <item >0.85</item>
+        <item>38</item>
+    </string-array>
 
 </resources>
