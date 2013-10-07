@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="waehrung">
+        <item >Euro (EUR)</item>
+        <item >US Dollar (USD)</item>
+        <item>Britische Pfunde (BPD)</item>
+        <item>Russische Rubel (RUB)</item>
+    </string-array>
+    
+</resources>
