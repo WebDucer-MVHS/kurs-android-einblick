@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Währungsrechner</string>
+
+    <string name="Waehrung1Label">Währung (1):</string>
+    
+    <string name="Waehrung2Label">Währung (2):</string>
+    
+    <string name="AugangsBetragLabel">Ausgangsbetrag:</string>
+    
+    <string name="BerechneButton">Berechnen</string>
+    
+    <string name="ZielBetragLabel">Zielbetrag</string>
+
+</resources>
