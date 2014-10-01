@@ -11,7 +11,7 @@ Kursinhalt
 - Kurze Übersicht über:
   - Versionen
   - Hardware (Auflösung, Sensoren, Prozessorleistung usw.)
-- Erstellung eines einfachen Programms (Währungsrechner) unter Android 4.1:
+- Erstellung eines einfachen Programms (Währungsrechner) unter Android 4.2:
   - Layout-Erstellung (visuell und XML)
   - Android Manifest (App Definition)
   - Programmierung der Logik (Java)
