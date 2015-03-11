@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Currency">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CHF</item>
+        <item>CAD</item>
+        <item>RUB</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="InputValueLabel">Eingabe:</string>
+    <string name="InputCurrencyLabel">Ausgangswährung:</string>
+    <string name="OutputCurrencyLabel">Zielwährung:</string>
+    <string name="CalculateButton">Berechnen</string>
+    <string name="OutputLabel">Ausgabe:</string>
+</resources>

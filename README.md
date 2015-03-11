@@ -36,6 +36,8 @@ Wir erstellen eine kleine Android-App. Die Programmlogik wird in Java und die Ob
 
 ### Blogbeiträge
 - Android Studio Installieren und Einrichten für Android Entwicklung [j.mp/ASTutInstall](http://j.mp/ASTutInstall "Tutorial zu: Android Studio Installieren und Einrichten für Android Entwicklung")
+- Android Studio: Projekt aus Versionsverwaltung öffnen [j.mp/ASFromCVS](http://j.mp/ASFromCVS "Android Studio: Projekt aus Versionsverwaltung öffnen")
+- Android Studio: Neues Projekt anlegen [j.mp/ASNewProj](http://j.mp/ASNewProj "Android Studio: Neues Projekt anlegen")
 - Android: Eclipse installieren und einrichten [j.mp/AndEclipse](http://j.mp/AndEclipse "Android: Eclipse installieren und einrichten")
 - Android: Neues Android Projekt anlegen (Eclipse) [wp.me/pNSaO-2m](http://wp.me/pNSaO-2m)
 - Android: Erste App (Währungsrechner) - Teil 1 (Eclipse) [wp.me/pNSaO-2l](http://wp.me/pNSaO-2l)
