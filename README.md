@@ -22,22 +22,22 @@ Wir erstellen eine kleine Android-App. Die Programmlogik wird in Java und die Ob
 
 ## Links
 ### Community
-- Google+ Community: [bit.ly/WDAndroidKurse](http://bit.ly/WDAndroidKurse "Google+ Community des Kurses")
+- Google+ Community: [wdurl.de/WDAndKurseGPlus](http://wdurl.de/WDAndKurseGPlus "Google+ Community des Kurses")
 
 ### Bücher
-- Android 4.4: Programmieren für Smartphones und Tablets - Grundlagen und fortgeschrittene Techniken [bit.ly/AndProg44](http://bit.ly/AndProg44 "Android 4.4: Programmieren für Smartphones und Tablets - Grundlagen und fortgeschrittene Techniken")
-- Android 4: Apps entwickeln mit dem Android SDK [bit.ly/AndGal4](http://bit.ly/AndGal4 "Android 4: Apps entwickeln mit dem Android SDK")
-- Android 3: Apps entwickeln mit dem Android SDK [bit.ly/AndGal3](http://bit.ly/AndGal3 "Android 3: Apps entwickeln mit dem Android SDK")
-- Java ist auch eine Insel [bit.ly/JaInsel](http://bit.ly/JaInsel "Java ist auch eine Insel")
+- Android 5: Apps entwickeln mit Android Studio [wdurl.de/RWAnd5Buch](http://wdurl.de/RWAnd5Buch "Android 5: Apps entwickeln mit Android Studio")
+- Android-Apps entwickeln für Einsteiger: Eigene Apps und Spiele mit Android Studio [wdurl.de/RWAndStartBuch](http://wdurl.de/RWAndStartBuch "Android-Apps entwickeln für Einsteiger: Eigene Apps und Spiele mit Android Studio")
+- Android 5: Programmieren für Smartphones und Tablets [wdurl.de/DPAnd5Buch](http://wdurl.de/DPAnd5Buch "Android 5: Programmieren für Smartphones und Tablets")
+- Java ist auch eine Insel [wdurl.de/RWJavaInsel](http://wdurl.de/RWJavaInsel "Java ist auch eine Insel")
 
 ### Downloads
-- Java SDK [www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html "Java SDK Download")
-- Android Studio Download [developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html "Download von Android Studio")
+- Java SDK [wdurl.de/JDK](http://wdurl.de/JDK "Java SDK Download")
+- Android Studio Download [wdurl.de/AndroidStudio](http://wdurl.de/AndroidStudio "Download von Android Studio")
 
 ### Blogbeiträge
-- Android Studio Installieren und Einrichten für Android Entwicklung [j.mp/ASTutInstall](http://j.mp/ASTutInstall "Tutorial zu: Android Studio Installieren und Einrichten für Android Entwicklung")
-- Android Studio: Projekt aus Versionsverwaltung öffnen [j.mp/ASFromCVS](http://j.mp/ASFromCVS "Android Studio: Projekt aus Versionsverwaltung öffnen")
-- Android Studio: Neues Projekt anlegen [j.mp/ASNewProj](http://j.mp/ASNewProj "Android Studio: Neues Projekt anlegen")
+- Android Studio Installieren und Einrichten für Android Entwicklung [wdurl.de/WDAsInst](http://wdurl.de/WDAsInst "Tutorial zu: Android Studio Installieren und Einrichten für Android Entwicklung")
+- Android Studio: Projekt aus Versionsverwaltung öffnen [wdurl.de/WDAsProjGit](http://wdurl.de/WDAsProjGit "Android Studio: Projekt aus Versionsverwaltung öffnen")
+- Android Studio: Neues Projekt anlegen [wdurl.de/WDAsNewProj](http://wdurl.de/WDAsNewProj "Android Studio: Neues Projekt anlegen")
 - Android: Eclipse installieren und einrichten [j.mp/AndEclipse](http://j.mp/AndEclipse "Android: Eclipse installieren und einrichten")
 - Android: Neues Android Projekt anlegen (Eclipse) [wp.me/pNSaO-2m](http://wp.me/pNSaO-2m)
 - Android: Erste App (Währungsrechner) - Teil 1 (Eclipse) [wp.me/pNSaO-2l](http://wp.me/pNSaO-2l)
