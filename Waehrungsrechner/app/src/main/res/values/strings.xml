@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Währungsrechner</string>
+    <string name="LabelEingabe">Eingabe:</string>
+    <string name="LabelAusgangswaehrung">Ausgangswährung:</string>
+    <string name="LabelZielWaehrung">Zielwährung:</string>
+    <string name="Berechnen">Berechnen</string>
+    <string name="LabelErgebnis">Ergebnis:</string>
+    <string name="WaehrungRubel">RUB</string>
+
+    <string-array name="Waehrungen">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CSD</item>
+        <item>BPD</item>
+        <item>@string/WaehrungRubel</item>
+    </string-array>
+</resources>
