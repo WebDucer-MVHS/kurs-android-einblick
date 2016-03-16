@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Währungsrechner</string>
+    <string name="w_value">Betrag:</string>
+    <string name="w_source_currency">Quelwährung:</string>
+    <string name="w_target_currency">Zielwährung:</string>
+    <string name="w_calculate">Berechne</string>
+    <string name="w_result">Ergebnis:</string>
+</resources>

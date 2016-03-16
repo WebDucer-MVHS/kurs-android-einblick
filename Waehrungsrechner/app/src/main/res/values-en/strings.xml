@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Calculator</string>
+    <string name="w_value">Value:</string>
+    <string name="w_source_currency">Source Currency:</string>
+    <string name="w_target_currency">Target Currency:</string>
+    <string name="w_calculate">Calculate</string>
+    <string name="w_result">Result:</string>
+</resources>
