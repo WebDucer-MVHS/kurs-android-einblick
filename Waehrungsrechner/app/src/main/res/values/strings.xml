@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Währungsrechner</string>
+    <string name="label_betrag">Betrag:</string>
+    <string name="label_ausgang">Ausgangswährung:</string>
+    <string name="label_ziel">Zielwährung:</string>
+    <string name="cmd_berechne">Berechne</string>
+    <string name="label_ergebnis">Ergebnis:</string>
+</resources>

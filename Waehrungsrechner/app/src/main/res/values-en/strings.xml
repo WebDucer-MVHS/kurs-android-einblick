@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Calculator</string>
+    <string name="cmd_berechne">Calculate</string>
+    <string name="label_ausgang">Input Currency:</string>
+    <string name="label_betrag">Input:</string>
+    <string name="label_ergebnis">Result:</string>
+    <string name="label_ziel">Output Currency:</string>
+</resources>
