@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Währungsrechner</string>
+    <string name="LabelInputValue">Wert:</string>
+    <string name="LabelInputCurrency">Ausgangswährung:</string>
+    <string name="LabelTargetCurrency">Zielwährung:</string>
+    <string name="ButtonCalculate">Berechnen</string>
+    <string name="LabelResult">Ergebnis:</string>
+</resources>

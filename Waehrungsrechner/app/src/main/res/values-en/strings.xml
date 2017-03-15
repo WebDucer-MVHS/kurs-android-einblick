@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Calculator</string>
+    <string name="ButtonCalculate">Calculate</string>
+    <string name="LabelInputCurrency">Input Currency:</string>
+    <string name="LabelInputValue">Input Value:</string>
+    <string name="LabelResult">Result:</string>
+    <string name="LabelTargetCurrency">Target Currency:</string>
+</resources>
