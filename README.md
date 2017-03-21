@@ -22,7 +22,7 @@ Wir erstellen eine kleine Android-App. Die Programmlogik wird in Java und die Ob
 - Google+ Community: [wdurl.de/WDAndKurseGPlus](http://wdurl.de/WDAndKurseGPlus "Google+ Community des Kurses")
 
 ### Bücher
-- Android 5: Apps entwickeln mit Android Studio [wdurl.de/RWAnd5Buch](http://wdurl.de/RWAnd5Buch "Android 5: Apps entwickeln mit Android Studio") (affiliate link)
+- Android 7: Das Praxisbuch für Entwickler. Inkl. Einstieg in Android Studio. 70 Projekte zu allen Android-Funktionen: Multimedia, Kamera, Organizer, Sensoren, Datenbanken, Android Wear u. v. m. [wdurl.de/RWAnd7Buch](https://wdurl.de/RWAnd7Buch "Android 7: Das Praxisbuch für Entwickler. Inkl. Einstieg in Android Studio. 70 Projekte zu allen Android-Funktionen: Multimedia, Kamera, Organizer, Sensoren, Datenbanken, Android Wear u. v. m.") (affiliate link)
 - Android-Apps entwickeln für Einsteiger: Eigene Apps und Spiele mit Android Studio 2.2 [wdurl.de/RWAndStartBuch](http://wdurl.de/RWAndStartBuch "Android-Apps entwickeln für Einsteiger: Eigene Apps und Spiele mit Android Studio 2.2") (affiliate link)
 - Android 5: Programmieren für Smartphones und Tablets [wdurl.de/DPAnd5Buch](http://wdurl.de/DPAnd5Buch "Android 5: Programmieren für Smartphones und Tablets") (affiliate link)
 - Java ist auch eine Insel [wdurl.de/RWJavaInsel](http://wdurl.de/RWJavaInsel "Java ist auch eine Insel") (affiliate link)
